@@ -1,7 +1,9 @@
 Contact Book Application:
+
 Welcome to the Contact Book Application! This simple Python application allows users to manage their contacts effectively.
 
-Features:
+Features
+
 Add New Contact: Add new contacts with details like first name, last name, middle name, mobile number, department, and email address.
 View Contacts: View contacts by searching for a specific contact or by viewing the entire contact directory.
 
