@@ -1,10 +1,11 @@
 Contact Book Application:
 
-Welcome to the Contact Book Application! This simple Python application allows users to manage their contacts effectively.
+Welcome to the Contact Book Application! This Python application allows users to manage their contacts effectively.
 
 Features
 
 Add New Contact: Add new contacts with details like first name, last name, middle name, mobile number, department, and email address.
+
 View Contacts: View contacts by searching for a specific contact or by viewing the entire contact directory.
 
 Modify Contact: Modify existing contact information, including first name, last name, middle name, mobile number, department, or email address.
@@ -15,7 +16,7 @@ Getting Started
 To get started with the Contact Book Application, follow these steps:
 
 Clone the Repository:
-git clone https://github.com/yourusername/contact-book.git
+git clone https://github.com/sarim705/Contact-Book.git
 
 Navigate to the Project Directory:
 cd contact-book
